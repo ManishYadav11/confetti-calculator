@@ -1,22 +1,21 @@
-Confetti Calculator
+## Confetti Calculator
 
 This project is a React-based scientific calculator that includes various scientific operations and a fun confetti explosion effect. 
 It is deployed on Vercel for easy access and demonstration.
 
-Features
+## Features
 Basic arithmetic operations (addition, subtraction, multiplication, division)
 Scientific operations (trigonometric functions, logarithms, exponentiation, etc.)
 Theme toggling (light and dark modes)
 Confetti explosion effect for celebration
 Responsive and customizable UI
 
-To run this project locally, follow these steps:
+## To run this project locally, follow these steps:
 
-Clone the repository:
-
-Install dependencies:
+1. Clone the repository:
+3. Install dependencies:
 -- npm install
-Start the development server:
+4. Start the development server:
 -- npm start
 
 
